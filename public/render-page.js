@@ -125,7 +125,7 @@ var plugins = [{
   options: {
     "plugins": [],
     "name": "CodeBlog IFSP",
-    "short_name": "CodeStack BR",
+    "short_name": "CodeBlog IFSP",
     "description": "demonstração do Gatsby para o seminario",
     "start_url": "/",
     "background_color": "#F2F3F4",
